@@ -1,0 +1,28 @@
+
+----------------------------------------------------------------------------------
+tools
+=======
+
+chartgpt         (code for websites and apps)
+google flow      (for image and video generation)
+signalHire       (to get contact details in linkedIn)
+gaama ai ppt     (for presentation slidse)
+stitch           (for templte generation for apps ,website downlodable)
+canva            (for thumbnail designs)
+v0               (to create websites, dashboards,login,signup pages 
+                    ai applications and chatbots forms and management systems,
+                       mvp and full stack aplications)
+----------------------------------------------------------------------------------
+
+prompts
+=======
+chart gpt
+---------
+//prompt for friend end website creation in char gpt
+create a simple resturant website for raise tech and give it as downloadable index.html file
+
+
+v0
+---
+create an Employee Management System with login, employee registration,employee list,search,edit and delete features
+
